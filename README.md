@@ -4,4 +4,4 @@
 
 Neo a un dashboard intégré
 
-<a href="https://ibb.co/FqYfxt03"><img src="https://i.ibb.co/2YMLnBsh/Capture-d-cran-2025-02-23-180521.jpg" alt="Capture-d-cran-2025-02-23-180521" border="0"></a>
+<a href="https://ibb.co/4nrZRY5q"><img src="https://i.ibb.co/jPXvkW1N/dashboard.png" alt="dashboard" border="0"></a>
